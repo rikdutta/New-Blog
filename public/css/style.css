@@ -1,0 +1,16 @@
+.first-container{
+	background-image: url('/images/background_welcome_page.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 700px;
+}
+
+.button-div{
+	width: 200px;
+}
+
+.button-div button:hover{
+	cursor: pointer;
+	opacity: 0.6;
+}
